@@ -4,7 +4,7 @@
 
 **Acesse agora a calculadora completa:**
 
-[![Calculadora TMO](https://img.shields.io/badge/🚀%20CALCULAR%20TMO-brightgreen?style=for-the-badge&logo=github&logoColor=white)](./Calculado%20Tmo/index.html)
+[![Calculadora TMO](https://img.shields.io/badge/🚀%20CALCULAR%20TMO-brightgreen?style=for-the-badge&logo=github&logoColor=white)](./CalculoTmo/index.html)
 
 ### ✨ **Funcionalidades:**
 
